@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.svg" alt="" width="80" height="80">
+  <img src="mark-default.svg" alt="" width="80" height="80">
 </p>
 
 <h1 align="center">AgniSky Labs</h1>
